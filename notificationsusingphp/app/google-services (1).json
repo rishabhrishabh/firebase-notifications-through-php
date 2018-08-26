@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "978514468026",
+    "firebase_url": "https://proj-27f02.firebaseio.com",
+    "project_id": "proj-27f02",
+    "storage_bucket": "proj-27f02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978514468026:android:21d8fbcc2280b73f",
+        "android_client_info": {
+          "package_name": "com.example.rb.notificationsusingphp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978514468026-706g8ecai16f0nefa4416l4ocf1fkpne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCam3dM81iKAA-5Y17MezIwBIHDfuQkZ7E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
